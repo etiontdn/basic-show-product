@@ -20,6 +20,36 @@ const routes = [
       import(/* webpackChunkName: "about" */ '../views/About.vue'),
   },
   {
+    path: '/produto/yukon',
+    component: () =>
+      import(/* webpackChunkName: "product" */ '../views/Product.vue'),
+    props: { name: 'yukon gold' },
+  },
+  {
+    path: '/produto/kennebec',
+    component: () =>
+      import(/* webpackChunkName: "product" */ '../views/Product.vue'),
+    props: { name: 'kennebec potato' },
+  },
+  {
+    path: '/produto/bintje',
+    component: () =>
+      import(/* webpackChunkName: "product" */ '../views/Product.vue'),
+    props: { name: 'bintje potato' },
+  },
+  {
+    path: '/produto/ratte',
+    component: () =>
+      import(/* webpackChunkName: "product" */ '../views/Product.vue'),
+    props: { name: 'ratte potato' },
+  },
+  {
+    path: '/produto/vitelotte',
+    component: () =>
+      import(/* webpackChunkName: "product" */ '../views/Product.vue'),
+    props: { name: 'vitelotte potato' },
+  },
+  {
     path: '*',
     component: () =>
       import(/* webpackChunkName: "notFound" */ '../views/NotFound.vue'),

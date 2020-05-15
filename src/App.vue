@@ -1,7 +1,9 @@
 <template>
   <div id="app">
     <Navbar id="navbar"></Navbar>
-    <router-view />
+    <div class="section wrapper">
+      <router-view />
+    </div>
   </div>
 </template>
 
@@ -13,18 +15,10 @@
   text-align: center;
   color: #2c3e50;
 }
-
-#nav {
-  padding: 30px;
-
-  a {
-    font-weight: bold;
-    color: #2c3e50;
-
-    &.router-link-exact-active {
-      color: #42b983;
-    }
-  }
+.wrapper {
+  margin: auto;
+  padding-top: 72px !important;
+  max-width: 980px !important;
 }
 </style>
 
