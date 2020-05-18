@@ -1,0 +1,540 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"merge",
+				"mergeFromUrls"
+			],
+			[
+				"images",
+				"imagesList"
+			],
+			[
+				"final",
+				"finalImage〔variable〕"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"colum",
+				"columns"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"align",
+				"vertical-align"
+			],
+			[
+				"route",
+				"router-link"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"Pro",
+				"ProductContent"
+			],
+			[
+				"get",
+				"getImage"
+			],
+			[
+				"fig",
+				"figcaption\tTag"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"to",
+				"toUpperCase〔function〕"
+			],
+			[
+				"finalImage",
+				"finalImageList"
+			],
+			[
+				"IMAGES",
+				"images"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"has-text",
+				"has-text-centered"
+			],
+			[
+				"navb",
+				"navbar-transition"
+			],
+			[
+				"class",
+				"classList"
+			],
+			[
+				"LIS",
+				"LISTA_FRUTAS"
+			],
+			[
+				"R",
+				"RANDOM_LIST"
+			],
+			[
+				"LI",
+				"LISTA_ANIMAIS"
+			],
+			[
+				"L",
+				"length"
+			],
+			[
+				"P",
+				"PALAVRA"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"s",
+				"selectedIndex"
+			],
+			[
+				"su",
+				"substituir_letra"
+			],
+			[
+				"p",
+				"PALAVRA_D"
+			],
+			[
+				"PAL",
+				"PALAVRA"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"letra",
+				"letra"
+			],
+			[
+				"fo",
+				"for\tfor (…) {…}"
+			],
+			[
+				"D",
+				"document"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"O",
+				"O"
+			],
+			[
+				"J",
+				"J"
+			],
+			[
+				"S",
+				"S"
+			],
+			[
+				"I",
+				"I"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pretti",
+				"Preferences: JsPrettier Settings - Default"
+			],
+			[
+				"prettier",
+				"Preferences: JsPrettier Settings - Default"
+			],
+			[
+				"prefere",
+				"Preferences: Settings"
+			],
+			[
+				"pre",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"emmet",
+				"Emmet: Select Next Item"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: :prop=\"data\""
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"prett",
+				"Preferences: JsPrettier Settings - Default"
+			],
+			[
+				"snippet",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"snipp",
+				"Snippet: html"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"prettie",
+				"Preferences: JsPrettier Settings - Default"
+			],
+			[
+				"ari",
+				"Arithmetic"
+			],
+			[
+				"open",
+				"Emmet: Previous Edit Point"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"broser",
+				"Browser Integration: View page source"
+			],
+			[
+				"open in browser",
+				"Browser Integration: Type into selected elements"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"theme ",
+				"UI: Select Theme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 218.0,
+		"history":
+		[
+			"aaa",
+			"console.log(\"Javascript\");",
+			"console.log(\"Javascript\")_"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/monstro/Projects/operation-print/package.json",
+		"/home/monstro/Projects/operation-print/index.js",
+		"/home/monstro/quickTests/script.js",
+		"/home/monstro/VueProjects/basic-show-product-vue/src/views/Home.vue",
+		"/home/monstro/VueProjects/basic-show-product-vue/src/main.scss",
+		"/home/monstro/VueProjects/basic-show-product-vue/src/main.js",
+		"/home/monstro/VueProjects/basic-show-product-vue/src/App.vue",
+		"/home/monstro/VueProjects/basic-show-product-vue/src/components/Navbar.vue",
+		"/home/monstro/VueProjects/basic-show-product-vue/src/router/index.js",
+		"/home/monstro/VueProjects/basic-show-product-vue/src/views/Product.vue",
+		"/home/monstro/VueProjects/basic-show-product-vue/src/components/ProductContent.vue",
+		"/home/monstro/VueProjects/basic-show-product-vue/src/components/ProductPreview.vue",
+		"/home/monstro/.config/sublime-text-3/Packages/JsPrettier/JsPrettier.sublime-settings",
+		"/home/monstro/VueProjects/basic-show-product-vue/src/views/About.vue",
+		"/home/monstro/VueProjects/basic-show-product-vue/package.json",
+		"/home/monstro/VueProjects/basic-show-product-vue/vue.config.js",
+		"/home/monstro/VueProjects/basic-show-product-vue/src/views/NotFound.vue",
+		"/home/monstro/VueProjects/basic-show-product-vue/public/index.html",
+		"/home/monstro/VueProjects/basic-show-product-vue/README.md",
+		"/home/monstro/VueProjects/basic-show-product/src/_javascript/main.js",
+		"/home/monstro/VueProjects/basic-show-product/src/index.js",
+		"/home/monstro/VueProjects/basic-show-product/src/about/about.js",
+		"/home/monstro/VueProjects/basic-show-product/src/contact/contact.js",
+		"/home/monstro/VueProjects/basic-show-product/src/products/yukon-gold/yukon-gold.js",
+		"/home/monstro/VueProjects/basic-show-product/src/products/kennebec.js",
+		"/home/monstro/VueProjects/basic-show-product/src/products/ratte.js",
+		"/home/monstro/VueProjects/basic-show-product-vue/dist/index.html",
+		"/home/monstro/VueProjects/basic-show-product/_sass/main.scss",
+		"/home/monstro/VueProjects/basic-show-product/webpack.config.js",
+		"/home/monstro/VueProjects/basic-show-product/package.json",
+		"/home/monstro/VueProjects/basic-show-product/index.html",
+		"/home/monstro/.config/sublime-text-3/Packages/User/htmlbasic.sublime-snippet",
+		"/home/monstro/VueProjects/basic-show-product/README.md",
+		"/home/monstro/quickTests/index.html",
+		"/home/monstro/Documentos/vue-learn/HelloWorld/colorOver.js",
+		"/home/monstro/Documentos/vue-learn/HelloWorld/ColorOvertest.html",
+		"/home/monstro/Documentos/vue-learn/HelloWorld/index.html",
+		"/home/monstro/.config/sublime-text-3/Packages/User/JsPrettier.sublime-settings",
+		"/home/monstro/.config/sublime-text-3/Packages/User/openinbrowser.sublime-settings",
+		"/home/monstro/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/monstro/.config/sublime-text-3/Packages/BrowserIntegration/BrowserIntegration.sublime-settings",
+		"/home/monstro/Documentos/vue-learn/HelloWorld/script.js",
+		"/home/monstro/Projects/BasicSkeleton/src/mystyles.scss",
+		"/home/monstro/Projects/BasicSkeleton/src/index.js",
+		"/home/monstro/Projects/BasicSkeleton/package.json",
+		"/home/monstro/Documentos/TheOdinProject/npmlearn/webpack-demo/.gitignore",
+		"/home/monstro/Documentos/test/bulma-start-0.0.4/package.json",
+		"/home/monstro/Projects/BasicSkeleton/webpack.config.js",
+		"/home/monstro/Documentos/Website Copies/tesla-copy/babel.config.json",
+		"/home/monstro/Documentos/Website Copies/tesla-copy/lib/main.js",
+		"/home/monstro/Documentos/Website Copies/tesla-copy/_javascript/main.js",
+		"/home/monstro/Documentos/Website Copies/tesla-copy/css/main.css",
+		"/home/monstro/ExpressProjects/myApp/app.js",
+		"/home/monstro/Documentos/Website Copies/tesla-copy/_sass/main.scss",
+		"/home/monstro/Documentos/Website Copies/tesla-copy/node_modules/bulma/sass/base/_all.sass",
+		"/home/monstro/Documentos/Website Copies/tesla-copy/package.json",
+		"/home/monstro/Documentos/TheOdinProject/Projects/weather/webpack.config.js",
+		"/home/monstro/Documentos/Website Copies/tesla-copy/.babelrc",
+		"/home/monstro/Documentos/Website Copies/tesla-copy/bulma-start-0.0.4/package.json",
+		"/home/monstro/Documentos/TheOdinProject/Projects/restaurant/webpack.config.js",
+		"/home/monstro/Documentos/TheOdinProject/Projects/weather/package.json",
+		"/home/monstro/Documentos/TheOdinProject/Projects/restaurant/dist/index.html",
+		"/home/monstro/Documentos/TheOdinProject/Projects/restaurant/.gitignore",
+		"/home/monstro/Documentos/TheOdinProject/Projects/restaurant/package.json",
+		"/home/monstro/Documentos/TheOdinProject/npmlearn/webpack-demo/webpack.config.js",
+		"/home/monstro/Documentos/TheOdinProject/npmlearn/webpack-demo/src/style.css",
+		"/home/monstro/Documentos/TheOdinProject/npmlearn/webpack-demo/dist/index.html",
+		"/home/monstro/Documentos/TheOdinProject/npmlearn/webpack-demo/src/index.js",
+		"/home/monstro/Documentos/TheOdinProject/npmlearn/webpack-demo/dist/bundle.js",
+		"/run/media/monstro/Storage/.kodi/addons/plugin.video.netflix/resources/lib/common/ipc.pyo",
+		"/home/monstro/.wine/drive_c/Program Files (x86)/Devolver Digital/Enter the Gungeon - Advanced Gungeons and Draguns/win64/run.sh",
+		"/home/monstro/.local/share/applications/Enter The Gungeon.desktop",
+		"/home/monstro/.local/share/applications/enter-the-gungeon-final.desktop",
+		"/run/media/monstro/Storage/.kodi/addons/plugin.video.netflix/resources/lib/common/ipc.py",
+		"/home/monstro/.local/share/applications/etg.desktop",
+		"/home/monstro/.local/share/applications/Enter the Gungeon Final.desktop",
+		"/home/monstro/Área de trabalho/Enter the Gungeon - Advanced Gungeons and Draguns(x64).desktop",
+		"/home/monstro/Downloads/phonebackupdata.txt",
+		"/home/monstro/Documentos/ProjetosJavascript/Jogo da Forca/style.css",
+		"/home/monstro/Documentos/ProjetosJavascript/Jogo da Forca/script.js",
+		"/home/monstro/Documentos/ProjetosJavascript/Jogo da Forca/main.html",
+		"/home/monstro/Documentos/ProjetosJavascript/Buttons Tutorial/script.js",
+		"/home/monstro/Documentos/ProjetosJavascript/Buttons Tutorial/style.css",
+		"/home/monstro/Documentos/ProjetosJavascript/Buttons Tutorial/main.html"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mergeImages"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 75.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.nodejs":
+	{
+		"height": 162.0
+	},
+	"pinned_build_system": "",
+	"project": "vue.config.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

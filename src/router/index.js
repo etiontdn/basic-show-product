@@ -11,13 +11,22 @@ const routes = [
     component: Home,
   },
   {
-    path: '/about',
+    path: '/sobre',
     name: 'About',
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
     component: () =>
       import(/* webpackChunkName: "about" */ '../views/About.vue'),
+  },
+  {
+    path: '/contato',
+    name: 'Contact',
+    // route level code-splitting
+    // this generates a separate chunk (about.[hash].js) for this route
+    // which is lazy-loaded when the route is visited.
+    component: () =>
+      import(/* webpackChunkName: "contact" */ '../views/Contact.vue'),
   },
   {
     path: '/produto/yukon',
@@ -29,25 +38,25 @@ const routes = [
     path: '/produto/kennebec',
     component: () =>
       import(/* webpackChunkName: "product" */ '../views/Product.vue'),
-    props: { name: 'kennebec potato' },
+    props: { name: 'batata kennebec' },
   },
   {
     path: '/produto/bintje',
     component: () =>
       import(/* webpackChunkName: "product" */ '../views/Product.vue'),
-    props: { name: 'bintje potato' },
+    props: { name: 'batata bintje' },
   },
   {
     path: '/produto/ratte',
     component: () =>
       import(/* webpackChunkName: "product" */ '../views/Product.vue'),
-    props: { name: 'ratte potato' },
+    props: { name: 'batata ratte' },
   },
   {
     path: '/produto/vitelotte',
     component: () =>
       import(/* webpackChunkName: "product" */ '../views/Product.vue'),
-    props: { name: 'vitelotte potato' },
+    props: { name: 'vitelotte' },
   },
   {
     path: '*',
